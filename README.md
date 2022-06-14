@@ -34,9 +34,9 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br />
 
-- 🛠 &nbsp; Estou Trabalhando atualmente com VueJS, React, Node, Mysql, Javascript.<br />
+- 🛠 &nbsp; Estou Trabalhando atualmente com Laravel,VueJS, React, Node, Mysql, Javascript.<br />
 - 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem RocketSeat, Udemy, B7WEB, Origamid.<br/>
-- 📫 &nbsp; Contate-me: joaopaulogabarrao@gmail.com@gmail.com
+- 📫 &nbsp; Contate-me: joaopaulogabarrao@gmail.com
 
 <br />
 
