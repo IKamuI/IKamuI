@@ -85,16 +85,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <hr />
 
-<details>	
-  <br />
-  <summary><b>⚙️ Equipamento De Trabalho</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> High Sierra</li>
-	    <li><b>Laptop: </b> Macbook (i7)</li>
-  	    <li><b>Browser: </b> Web Browser Chrome</li>
-	    <li><b>Editor de Codigos:</b> WebStorm - Muito Eficaz.</li>
-	</ul>	
-</details>
+
 
 <details>
   <br />
