@@ -36,8 +36,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 - 🛠 &nbsp; Estou Trabalhando atualmente com VueJS, React, Node, Mysql, Javascript.<br />
 - 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem RocketSeat, Udemy, B7WEB, Origamid.<br/>
-- 💬 💌 &nbsp; Me Pergunte Algo [here](https://github.com/caciano4/Bem-Vindo/issues/1)! Estou Feliz Por Ajudar😃.<br/>
-- 📫 &nbsp; Contate-me: caciano4@gmail.com
+- 📫 &nbsp; Contate-me: joaopaulogabarrao@gmail.com@gmail.com
 
 <br />
 
@@ -101,8 +100,8 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
   <br />
     <summary><strong>🌟 Status do Perfil</strong></summary>
     <ul>
-        <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=caciano4&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
-        <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caciano4&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
+        <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=IKamuI&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
+        <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKamuI&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
     </ul>
 </details>
 
